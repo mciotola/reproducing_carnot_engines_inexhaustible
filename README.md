@@ -1,7 +1,7 @@
 
  ###############################################################################
  #                                                                             #
- # CARNOT ENGINES - WITH UNLIMITED RESERVOIRS version 01.06.01-2                 #
+ # CARNOT ENGINES - WITH UNLIMITED RESERVOIRS version 01.06.01                 #
  #_____________________________________________________________________________#
  #                                                                             #
  # Copyright 2011-2014 by Mark Ciotola; available for use under GNU license    #
