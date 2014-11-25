@@ -1,14 +1,10 @@
+CARNOT ENGINES - WITH UNLIMITED RESERVOIRS version 01.06.01
 
- ###############################################################################
- #                                                                             #
- # CARNOT ENGINES - WITH UNLIMITED RESERVOIRS version 01.06.01                 #
- #_____________________________________________________________________________#
- #                                                                             #
- # Copyright 2011-2014 by Mark Ciotola; available for use under GNU license    #
- #                                                                             #
- # http://www.heatsuite.com                                                    #
+Copyright 2011-2014 by Mark Ciotola; available for use under GNU license
 
-Created on 14 June 2014. Last revised on 24 November 2014                   #
+http://www.heatsuite.com
+
+Created on 14 June 2014. Last revised on 24 November 2014
 
 Developed with Ruby 1.8.7; updated to Ruby 2.1.1
 
