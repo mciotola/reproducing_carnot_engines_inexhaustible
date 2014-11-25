@@ -7,18 +7,11 @@
  # Copyright 2011-2014 by Mark Ciotola; available for use under GNU license    #
  #                                                                             #
  # http://www.heatsuite.com                                                    #
- #                                                                             #
- ###############################################################################
 
+Created on 14 June 2014. Last revised on 24 November 2014                   #
 
-###############################################################################
-#                                                                             #
-# Created on 14 June 2014. Last revised on 24 November 2014                   #
-#_____________________________________________________________________________#
-#                                                                             #
-# Developed with Ruby 1.8.7; updated to Ruby 2.1.1                            #
-#                                                                             #
-###############################################################################
+Developed with Ruby 1.8.7; updated to Ruby 2.1.1
+
 
 
  A Carnot heat engine bridges reservoirs of differing temperatures to transform
